@@ -397,3 +397,7 @@ launch.json
 
 # Ignore dynamic template
 images/*/*-temp.json
+
+# Local Packer credentials and generated build output
+images/ubuntu/tiny-credentials.pkr.hcl
+images/ubuntu/software-report.json
